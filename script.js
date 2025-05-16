@@ -216,7 +216,7 @@ projectContainer.appendChild(windowElement);
         ],
         Extra: [
             { left: 40, top: 0 },
-            { left: 60, top: 260 },
+            { left: 60, top: 265 },
             { left: 470, top: 100 },
             { left: 950, top: 10 },
             { left: 900, top: 450 }
